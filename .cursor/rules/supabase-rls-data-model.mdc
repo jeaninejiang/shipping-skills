@@ -1,0 +1,10 @@
+---
+description: Design Postgres tables, Row Level Security policies and migrations for a Supabase app where data is shared between users — couples, teams, households, invites, join codes, anything two or more accounts touch. Use this whenever you are creating or changing a Supabase table, writing or debugging an RLS policy, adding an invite/pairing/join flow, or investigating why a query returns nothing for one user but works for another. Reach for it early: RLS decisions are cheap to make correctly up front and expensive to unpick once rows exist, and the most common failure mode is a silent empty result rather than an error.
+alwaysApply: false
+---
+
+Read `skills/supabase-rls-data-model/SKILL.md` in this repository and follow it.
+
+It is the single source of truth for this topic — this rule only
+points at it, so that the guidance cannot drift between the formats
+different tools expect.

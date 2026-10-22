@@ -1,0 +1,10 @@
+---
+description: Build sign-up, sign-in and session handling for a SwiftUI app on Supabase Auth — email/password, Sign in with Google or Apple, OAuth redirect schemes, session restore on launch, sign-out and account deletion. Use this whenever you are adding or debugging login in a SwiftUI app, wiring an OAuth callback URL, deciding what the app does on launch before it knows who the user is, or chasing an intermittent 401 / "cancelled" error that only happens right after the app starts. Also use it when planning the first-run flow — what gets created at sign-up decides how messy the data model gets later.
+alwaysApply: false
+---
+
+Read `skills/supabase-auth-swift/SKILL.md` in this repository and follow it.
+
+It is the single source of truth for this topic — this rule only
+points at it, so that the guidance cannot drift between the formats
+different tools expect.

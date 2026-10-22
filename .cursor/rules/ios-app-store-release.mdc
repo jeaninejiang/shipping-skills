@@ -1,0 +1,10 @@
+---
+description: Take a SwiftUI iOS app from source to TestFlight and the App Store — XcodeGen project.yml setup, bundling resources, build and marketing version numbers, archiving, the privacy manifest, App Privacy answers, screenshots and creative assets at Apple's exact pixel sizes, and the pre-submission checklist. Use this whenever you are configuring an Xcode project, preparing a build for upload, answering anything in App Store Connect, generating store screenshots, setting up internal or external TestFlight testers, or diagnosing a rejection. Reach for it before the first submission rather than after — most rejections here are metadata, and most of them are predictable.
+alwaysApply: false
+---
+
+Read `skills/ios-app-store-release/SKILL.md` in this repository and follow it.
+
+It is the single source of truth for this topic — this rule only
+points at it, so that the guidance cannot drift between the formats
+different tools expect.

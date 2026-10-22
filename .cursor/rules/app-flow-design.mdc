@@ -1,0 +1,10 @@
+---
+description: Design screen flow, onboarding and per-screen states before building them — gates and their predicates, the loading/empty/ready/error matrix, dead-end checks, input validation and escape hatches, and waiting states for slow operations. Use this whenever you are planning onboarding or a multi-step flow, adding a screen that loads data, deciding what a user sees before their data arrives, wiring a conditional that picks between screens, or debugging a screen that shows the wrong thing for a moment, shows a new-user prompt to a returning user, or traps someone with no way back. Reach for it while designing rather than after: most of these bugs are invisible to the account you develop with and obvious to every real user.
+alwaysApply: false
+---
+
+Read `skills/app-flow-design/SKILL.md` in this repository and follow it.
+
+It is the single source of truth for this topic — this rule only
+points at it, so that the guidance cannot drift between the formats
+different tools expect.

@@ -1,0 +1,10 @@
+---
+description: Write, debug and deploy Supabase Edge Functions (Deno) — privileged server logic, invite/claim endpoints, calls to model and third-party APIs, transactional email, database-trigger webhooks. Use this whenever you are creating or editing anything under supabase/functions/, choosing between the anon and service-role client, handling secrets or Vault values, wiring a Postgres trigger to a function, or debugging a function that returns 200 but does not do what it should. Also use it when a deployed function behaves like an older version than the code in front of you.
+alwaysApply: false
+---
+
+Read `skills/supabase-edge-functions/SKILL.md` in this repository and follow it.
+
+It is the single source of truth for this topic — this rule only
+points at it, so that the guidance cannot drift between the formats
+different tools expect.
